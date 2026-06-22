@@ -1,4 +1,4 @@
-<img width="788" height="602" alt="image" src="https://github.com/user-attachments/assets/ab869fda-f7d8-4ba3-b22c-c2050f9a5348" /># HEXABOT
+# HEXABOT
 - a 6-legged robot with 3 segments.
 - i want to make this robot, as i wanna get into robotics more, and its fun to make robots.
 - this robot will first appear dead (no movements and all), then when somebody comes closer to it, will launch at them, something like a jumpscare from fnaf.
