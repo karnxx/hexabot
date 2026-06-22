@@ -17,3 +17,7 @@
 ## [BOM](https://docs.google.com/spreadsheets/d/1mATnKwj9ZYp3htSjrHEwdiJQ4OFsj6mQfeVdPdykUfI/edit?usp=sharing)
 - 1$ = 94₹
 <img width="822" height="597" alt="image" src="https://github.com/user-attachments/assets/445fb761-bee2-4678-a650-a50f9862dbd9" />
+
+## ELECTRONICS
+- make sure everything has common gnd.
+<img width="682" height="778" alt="image" src="https://github.com/user-attachments/assets/21ae9a33-f5a4-4101-9030-4fd4608a160f" />
