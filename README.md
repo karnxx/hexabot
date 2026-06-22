@@ -21,3 +21,6 @@
 ## ELECTRONICS
 - make sure everything has common gnd.
 <img width="682" height="778" alt="image" src="https://github.com/user-attachments/assets/21ae9a33-f5a4-4101-9030-4fd4608a160f" />
+
+## FIRMWARE
+- im not gnna do firmware rn, u can use bottango if u want to. 
