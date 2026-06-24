@@ -24,3 +24,32 @@
 
 ## FIRMWARE
 - im not gnna do firmware rn, u can use bottango if u want to. 
+
+# Parts List (INR ₹)
+
+| Part | Description | Qty | Unit Price (₹) | Total (₹) | Link |
+|------|-------------|-----:|---------------:|----------:|------|
+| DS3225 | For everything, 25kg·cm, 0.16s/60° | 22 | 314 | 6908 | https://robocraze.com/products/mg995-servo-motor |
+| PCA9685 | Servo controller | 2 | 229 | 458 | https://robocraze.com/products/pca9685-16-channel-servo-motor-driversoldered |
+| Pi Zero 2W | SBC | 1 | 1800 | 1800 | https://robu.in/product/raspberry-pi-zero-wireless-wh-pre-soldered-header |
+| HC-SR04 | To detect person | 2 | 84 | 168 | https://robocraze.com/products/hc-sr-04-ultrasonic-sensor |
+| Speaker Amp | To make speaker louder | 1 | 58 | 58 | https://robu.in/product/pam8403-mini-5v-digital-amplifier-board-switch-potentiometer |
+| Speaker | Speaker | 1 | 224 | 224 | https://www.flyrobo.in/4r-3w-40mm-mini-power-amplifier-speaker |
+| 2S LiPo 3000mAh 30C | Battery | 1 | 2105 | 2105 | https://robu.in/product/orange-3300mah-2s-25c-7-4v-lithium-polymer-battery-pack-lipo |
+| 200W 20A Buck Converter | For servos | 1 | 339 | 339 | https://robu.in/product/200w-20a-dc-dc-buck-converter-step-down-module-constant-current-led-driver-module |
+| Mini Buck Converter | For Raspberry Pi | 1 | 29 | 29 | https://robu.in/product/mini-360-step-down-buck-converter-power-module |
+| LiPo Charger | To charge LiPo | 1 | 336 | 336 | https://robu.in/product/b3ac-compact-balance-charger-2s-3s-lipo |
+| M2 Bolts | For servo horns and mounting electronics | 30 | 3 | 90 | https://onlyscrews.in/products/m2-x-25mm-phillips-csk-ss-304-screw-dia-2mm-length-25mm |
+| M2 Nuts | Same as above | 30 | 1 | 30 | https://onlyscrews.in/products/m2-hex-nut-mild-steel-dia-2mm |
+| M2 Nyloc Nuts | Same as above | 15 | 6 | 90 | https://onlyscrews.in/products/m2-nyloc-nuts-ss304-dia-2mm |
+| Servo Extension Wire | Extend servo cable length | 5 | 54 | 270 | https://robocraze.com/products/robocraze-servo-extension-cable-60cm-female-to-female |
+| Header Pins | For soldering onto Pi Zero and amp | 1 | 100 | 100 | https://www.amazon.in/dp/B0DNMD4THF |
+| Zip Ties | For securing battery | 5 | 0.8 | 4 | https://onlyscrews.in/products/3-6mm-x-150mm-white-color-multi-purpose-self-locking-nylon-industrial-grade-cable-zip-tie |
+
+## Cost Summary
+
+| Item | Amount (₹) |
+|--------|----------:|
+| Total Project Cost | **13,009** |
+
+> Note: The provided CSV states a final total of **₹13,005**, but summing the listed line items results in **₹13,009**. The discrepancy is **₹4**.
