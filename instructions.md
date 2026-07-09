@@ -1,4 +1,4 @@
-# INSTRUCTIONS
+<img width="700" height="430" alt="image" src="https://github.com/user-attachments/assets/f0d56337-422b-49f1-8c7f-6b9c7bbacc2b" /><img width="1015" height="760" alt="image" src="https://github.com/user-attachments/assets/b17fee8a-7382-495f-b77f-4c8672b32ad6" /># INSTRUCTIONS
 ### (make sure u 3dp everything before this)
 
 - 1. add the servoes without horn to the mounting areas:
@@ -23,3 +23,20 @@
 
 totally, 22 servos, check the 3d model for more help (green things servos):
 <img width="1097" height="784" alt="image" src="https://github.com/user-attachments/assets/45f650ce-6d59-40ed-8216-59c8b3810b5f" />
+
+- 2. servo horn mounts
+- first screw in all the horns to the servos
+- mount all the servo horns here:
+<img width="1015" height="760" alt="image" src="https://github.com/user-attachments/assets/f05c89f4-bc6a-40cd-916e-5f077d27f25e" />
+- 2-4 screws are optimal.
+- after that, follow the 3d model and assemble accordingly.
+
+- 3. electronic mounting
+- make sure all wires are not being obstructed.
+- mount the pca on both side of the mid seg.
+
+<img width="377" height="305" alt="image" src="https://github.com/user-attachments/assets/039c1f64-3f5e-41a4-add3-9dbfff7bfadc" />
+
+- make sure all servos wires reach the pca.
+- mount the battery in the middle area (Representated by the blue cuboid), via zip ties (dont forget to buy long ones and cut off the ends after zip tieing). 
+<img width="700" height="433" alt="image" src="https://github.com/user-attachments/assets/1a3003b9-90e2-4d9b-bf78-5b374a4d4b29" />
