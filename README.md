@@ -23,7 +23,8 @@
 <img width="682" height="778" alt="image" src="https://github.com/user-attachments/assets/21ae9a33-f5a4-4101-9030-4fd4608a160f" />
 
 ## FIRMWARE
-- im not gnna do firmware rn, u can use bottango if u want to. 
+- made using [bottango](https://www.bottango.com/)
+- ive made the joints and a basic walk animation, which u can download from bottango_model.btngo
 
 # Parts List (INR ₹)
 
