@@ -1,4 +1,4 @@
-<img width="700" height="430" alt="image" src="https://github.com/user-attachments/assets/f0d56337-422b-49f1-8c7f-6b9c7bbacc2b" /><img width="1015" height="760" alt="image" src="https://github.com/user-attachments/assets/b17fee8a-7382-495f-b77f-4c8672b32ad6" /># INSTRUCTIONS
+<img width="388" height="285" alt="image" src="https://github.com/user-attachments/assets/795d3e56-0ed8-4507-84d6-b7aafaa3dc32" /><img width="700" height="430" alt="image" src="https://github.com/user-attachments/assets/f0d56337-422b-49f1-8c7f-6b9c7bbacc2b" /><img width="1015" height="760" alt="image" src="https://github.com/user-attachments/assets/b17fee8a-7382-495f-b77f-4c8672b32ad6" /># INSTRUCTIONS
 ### (make sure u 3dp everything before this)
 
 - 1. add the servoes without horn to the mounting areas:
@@ -33,10 +33,12 @@ totally, 22 servos, check the 3d model for more help (green things servos):
 
 - 3. electronic mounting
 - make sure all wires are not being obstructed.
-- mount the pca on both side of the mid seg.
-
+- mount the pca on both side of the mid seg, use bolts with force thread/heat insert or use self tapping screws. i reccomend screws.
 <img width="377" height="305" alt="image" src="https://github.com/user-attachments/assets/039c1f64-3f5e-41a4-add3-9dbfff7bfadc" />
 
 - make sure all servos wires reach the pca.
 - mount the battery in the middle area (Representated by the blue cuboid), via zip ties (dont forget to buy long ones and cut off the ends after zip tieing). 
 <img width="700" height="433" alt="image" src="https://github.com/user-attachments/assets/1a3003b9-90e2-4d9b-bf78-5b374a4d4b29" />
+- after that mount the raspberry pi zero2 w here:
+<img width="388" height="285" alt="image" src="https://github.com/user-attachments/assets/8ca6dce6-bd40-4003-bc59-ef8ee9141da3" />
+
