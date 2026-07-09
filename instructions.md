@@ -37,8 +37,18 @@ totally, 22 servos, check the 3d model for more help (green things servos):
 <img width="377" height="305" alt="image" src="https://github.com/user-attachments/assets/039c1f64-3f5e-41a4-add3-9dbfff7bfadc" />
 
 - make sure all servos wires reach the pca.
-- mount the battery in the middle area (Representated by the blue cuboid), via zip ties (dont forget to buy long ones and cut off the ends after zip tieing). 
+- mount the battery in the middle area (Representated by the blue cuboid), via zip ties (dont forget to buy long ones and cut off the ends after zip tieing).
+
 <img width="700" height="433" alt="image" src="https://github.com/user-attachments/assets/1a3003b9-90e2-4d9b-bf78-5b374a4d4b29" />
+
 - after that mount the raspberry pi zero2 w here:
+
 <img width="388" height="285" alt="image" src="https://github.com/user-attachments/assets/8ca6dce6-bd40-4003-bc59-ef8ee9141da3" />
 
+- 3. wiring
+- 11 servos to one pca, 11 to the other, follow this wiring diagram:
+<img width="682" height="778" alt="image" src="https://github.com/user-attachments/assets/c87469cf-af83-4302-996e-1466af84326f" />
+
+- 4. firmware
+- for firmware an easy method is to use bottango. ive made a btngo file, with all the joints modeled, so you can use that to create you own animations and stuff. 
+<img width="754" height="464" alt="image" src="https://github.com/user-attachments/assets/abdb9479-1edb-470f-991d-b2fed3381c6a" />
