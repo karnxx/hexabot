@@ -20,7 +20,7 @@
 
 ## ELECTRONICS
 - make sure everything has common gnd.
-<img width="682" height="778" alt="image" src="https://github.com/user-attachments/assets/21ae9a33-f5a4-4101-9030-4fd4608a160f" />
+<img width="682" height="778" alt="image" src="https://github.com/user-attachments/assets/1a18fac3-06e5-4133-a81e-4d12daa728ab" />
 
 ## FIRMWARE
 - made using [bottango](https://www.bottango.com/)
