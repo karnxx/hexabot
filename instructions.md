@@ -37,9 +37,14 @@ totally, 22 servos, check the 3d model for more help (green things servos):
 <img width="377" height="305" alt="image" src="https://github.com/user-attachments/assets/039c1f64-3f5e-41a4-add3-9dbfff7bfadc" />
 
 - make sure all servos wires reach the pca.
-- mount the battery in the middle area (Representated by the blue cuboid), via zip ties (dont forget to buy long ones and cut off the ends after zip tieing).
+- mount the battery in the middle area (Representated by the blue cuboid), and use zip ties as support (get the long ones).
 
 <img width="700" height="433" alt="image" src="https://github.com/user-attachments/assets/1a3003b9-90e2-4d9b-bf78-5b374a4d4b29" />
+
+- mount the speaker and the amplifier. the amp has a slide in area, where u just have to put it there and maybe add zip ties to secure it. and for the speakers, u can mount them anywhere, its your wish.
+
+<img width="406" height="378" alt="image" src="https://github.com/user-attachments/assets/ccc5f716-363e-4447-8eb0-2e3a54702b37" />
+
 
 - after that mount the raspberry pi zero2 w here:
 
